@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G-niddhi Mahind
+- 👋 Hi, I’m niddhi Ganesh Mahind
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...
